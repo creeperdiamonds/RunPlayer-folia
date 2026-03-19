@@ -1,5 +1,5 @@
-name: RunPlayer
-main: net.callicamc.runfor.RunFor
+name: RunPlayer-folia
+main: net.callicamc.runfor-folia.RunFor
 version: 1.0.0
 api-version: 1.21
 commands:
