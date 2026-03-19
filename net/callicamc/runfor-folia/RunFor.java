@@ -1,4 +1,4 @@
-package net.callicamc.runfor;
+package net.callicamc.runfor-folia;
 
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
