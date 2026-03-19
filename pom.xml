@@ -6,7 +6,7 @@
 
     <groupId>net.callicmc</groupId>
     <artifactId>RunPlayer-folia</artifactId>
-    <version>1.0</version>
+    <version>v1</version>
     <packaging>jar</packaging>
 
     <properties>
