@@ -1,0 +1,8 @@
+name: RunPlayer
+main: net.callicamc.runfor.RunFor
+version: 1.0.0
+api-version: 1.21
+commands:
+  runfor:
+    description: Force a player to run a command
+    usage: /runfor <player> <command>
