@@ -20,4 +20,4 @@ blacklisted-commands:
   - "luckperms"
 ```
 ---
-*(Paper/bukkit/spigot version is here)[https://github.com/creeperdiamonds/RunPlayer]
+*[Paper/bukkit/spigot version is here](https://github.com/creeperdiamonds/RunPlayer)*
