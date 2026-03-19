@@ -1,0 +1,9 @@
+# commands that cannot be forced
+blacklisted-commands:
+  - op
+  - deop
+  - stop
+  - luckperms
+
+# message when trying to run a blacklisted command
+block-message: "&c[Security] Command /%cmd% is blacklisted."
